@@ -85,6 +85,14 @@ Run the application directly using:
 
 ---
 
+## Sample Output
+
+Here is a screenshot showcasing a sample ASCII art created using the tool. It highlights the interactive grid and the drawn characters.
+
+![Sample Output](Output%20Image.png)
+
+---
+
 ## Troubleshooting
 
 ### 1. Terminal Too Small
